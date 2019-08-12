@@ -6,5 +6,5 @@
 
 ---
 
-![](/assets/Spring AOP原理.png)
+![](/assets/aop原理.png)
 
