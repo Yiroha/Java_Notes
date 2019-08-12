@@ -6,5 +6,5 @@
 
 ---
 
-![](/assets/与hibernatehibernate比较.png)
+![](/assets/与Hibnate比较.png)
 
