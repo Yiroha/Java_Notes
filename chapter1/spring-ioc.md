@@ -16,5 +16,7 @@
 
 ![](/assets/Bean生命周期.png)
 
+---
+
 ![](/assets/BeanFactory与ApplicationContext.png)
 
