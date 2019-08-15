@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [JavaSE](javase.md)
 * [Spring](chapter1.md)
   * [Spring IOC](chapter1/spring-ioc.md)
   * [Spring AOP](chapter1/spring-aop.md)
